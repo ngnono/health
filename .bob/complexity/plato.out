@@ -1,0 +1,13 @@
+Could not parse JSON from file .bob/complexity/plato/files/lib_checker_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_checkers_file_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_checkers_http_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_checkers_https_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_checkers_mongodb_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_cli_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_formatters_cli_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_formatters_html_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_formatters_text_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_health_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/files/lib_result_js/report.history.json
+Could not parse JSON from file .bob/complexity/plato/report.history.json
+Done!
